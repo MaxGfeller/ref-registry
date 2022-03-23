@@ -1,0 +1,29 @@
+{
+  "name": "vue3-ref-registry",
+  "version": "0.0.0",
+  "description": "Vue 3 ref registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxGfeller/ref-registry.git"
+  },
+  "keywords": [
+    "vue",
+    "3",
+    "ref",
+    "registry",
+    "components"
+  ],
+  "author": "Max Gfeller <mail@maxgfeller.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxGfeller/ref-registry/issues"
+  },
+  "homepage": "https://github.com/MaxGfeller/ref-registry#readme",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  }
+}
