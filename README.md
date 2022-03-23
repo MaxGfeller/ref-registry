@@ -53,3 +53,7 @@ const sayHello = () => {
 defineExpose({ sayHello })
 </script>
 ```
+
+## A word of caution
+
+This library is built on [Vue mixins](https://vuejs.org/api/application.html#app-mixin), a feature that is supported in Vue 3 due to  backwards compatibility. However, this feature is generally not recommend for use in Vue 3.
